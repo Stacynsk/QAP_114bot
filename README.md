@@ -1,5 +1,5 @@
- QAP107-23.6.1
-По встроенному в файле config.py токену адрес бота - https://t.me/QAHW_bot
+QAP_114bot
+По встроенному в файле config.py токену адрес бота - t.me/QAP_114bot
 
 Для работы необходимо установить библиотеки Requests, Pytelegrambotapi
 
